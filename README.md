@@ -68,7 +68,7 @@
 - eladmin-logging 系统日志模块
 - eladmin-tools 系统第三方工具模块
 - eladmin-generator 系统代码生成模块
-    
+  
 
 #### 系统预览
 <table>
@@ -90,6 +90,5 @@
 </table>
 
 #### 项目捐赠
-项目的发展离不开你的支持，请作者喝杯咖啡吧☕  [Donate](https://docs.auauz.net/#/jz)
-#### 反馈交流
-- QQ交流群：891137268
+项目的发展离不开你的支持，请作者喝杯咖啡
+
